@@ -42,3 +42,5 @@ b=3
 print(a+b)
 ```
 Added new lines to README
+
+- Trying to use the instructions in the assignment dox and updating the readme
