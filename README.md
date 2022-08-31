@@ -34,3 +34,10 @@ Creating a repository for lab1
 ```
 
 ###### Reference link: https://github.com/jyothsna9797/firstrepo/blob/main/README.md
+
+## Adding additon logic in the python code:
+```
+a=2
+b=3
+print(a+b)
+```
