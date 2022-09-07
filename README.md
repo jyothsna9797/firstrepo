@@ -44,3 +44,8 @@ print(a+b)
 Added new lines to README
 
 - Trying to use the instructions in the assignment dox and updating the readme
+
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
